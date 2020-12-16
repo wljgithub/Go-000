@@ -1,0 +1,10 @@
+app:
+  addr: :8080
+mysql:
+  name: mydb
+  addr: mysql:3306
+  username: root
+  password: root
+redis:
+  addr: redis:6379
+
